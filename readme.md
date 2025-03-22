@@ -15,11 +15,11 @@ Provide Error handling for wrong commands and wrong number of arguments .
 
 Related Images:
 
-![redis-commands](./redis.png)
+![redis-commands](./images/execution.png)
 
-![server-logs](./serverlog.png)
+![server-logs](./images/serverlog.png)
 
-![server-logs](./serverlog2.png)
+![server-logs](./images/serverlog2.png)
 
 
 For Setting up the project follow the steps below:
