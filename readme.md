@@ -17,9 +17,9 @@ Related Images:
 
 ![redis-commands](./redis.png)
 
-![server-logs](./server.png)
+![server-logs](./serverlog.png)
 
-![server-logs](./server2.png)
+![server-logs](./serverlog2.png)
 
 
 For Setting up the project follow the steps below:
